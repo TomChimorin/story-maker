@@ -15,8 +15,9 @@ A fun and interactive Story Maker app created with collaboration. This app allow
 - **CSS**: Styling for the app interface.
 - **JavaScript**: Functionality for generating random sentences and handling user input.
 
-## How to Use
+## How to Run
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/story-maker-code.git
+1. Download or clone this repository.
+2. Open `index.html` in your browser.
+3. Enjoy the vibes! 🍦🎶
+
