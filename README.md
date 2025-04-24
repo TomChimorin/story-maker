@@ -19,4 +19,4 @@ A fun and interactive Story Maker app created with collaboration. This app allow
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/story-maker.git
+   git clone https://github.com/yourusername/story-maker-code.git
